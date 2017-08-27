@@ -1,0 +1,9 @@
+[submodule "issue-analysis-service-embedded"]
+	path = issue-analysis-service-embedded
+	url = ./issue-analysis-service-embedded/
+[submodule "issue-browser-extension"]
+	path = issue-browser-extension
+	url = ./issue-browser-extension/
+[submodule "issue-analysis-service"]
+	path = issue-analysis-service
+	url = ./issue-analysis-service
